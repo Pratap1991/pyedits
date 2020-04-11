@@ -1,0 +1,5 @@
+List of IDLE :
+Python IDLE Shell
+Edit+
+Command Prompt
+Notepad
