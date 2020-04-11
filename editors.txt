@@ -4,3 +4,6 @@ Edit+
 Command Prompt
 Notepad
 Sublime Text editor
+Atom
+
+Final Copy..
